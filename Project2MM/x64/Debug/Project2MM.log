@@ -1,0 +1,40 @@
+﻿  main.cpp
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(117,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,66): warning C4244:         with
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,66): warning C4244:         [
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,66): warning C4244:             T=int
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,66): warning C4244:         ]
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,66): warning C4244:         and
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,66): warning C4244:         [
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,66): warning C4244:             T=float
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,66): warning C4244:         ]
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,54): warning C4244:         with
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,54): warning C4244:         [
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,54): warning C4244:             T=int
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,54): warning C4244:         ]
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,54): warning C4244:         and
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,54): warning C4244:         [
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,54): warning C4244:             T=float
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(236,54): warning C4244:         ]
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,64): warning C4244:         with
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,64): warning C4244:         [
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,64): warning C4244:             T=int
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,64): warning C4244:         ]
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,64): warning C4244:         and
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,64): warning C4244:         [
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,64): warning C4244:             T=float
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,64): warning C4244:         ]
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,52): warning C4244:         with
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,52): warning C4244:         [
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,52): warning C4244:             T=int
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,52): warning C4244:         ]
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,52): warning C4244:         and
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,52): warning C4244:         [
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,52): warning C4244:             T=float
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(266,52): warning C4244:         ]
+D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\Project2MM\main.cpp(214,8): warning C4101: 'mo': unreferenced local variable
+  Project2MM.vcxproj -> D:\my projcet\1_2 C++\projcet\Project2MM\Project2MM\x64\Debug\Project2MM.exe
